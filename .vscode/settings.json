@@ -1,0 +1,27 @@
+{
+    "python.pythonPath": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "*_test.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.unittestEnabled": true,
+    "cSpell.words": [
+        "apng",
+        "chardet",
+        "douluodalu",
+        "geocodes",
+        "guichuideng",
+        "itemsize",
+        "kunlunshenggong",
+        "lxml",
+        "setdefaultencoding",
+        "showtxt",
+        "strftime",
+        "webp"
+    ]
+}
